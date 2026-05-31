@@ -22,10 +22,10 @@ Endüstri standardı modüler yapı kullanılmıştır:
 
 ## 👥 Ekip Üyeleri (Grup 8)
 [cite_start]Proje, 14 haftalık müfredat boyunca profesyonel bir iş bölümü ile geliştirilmiştir[cite: 48, 51]:
-* [cite_start]**Baş Yazılım Mimarı & Sistem Entegratörü:** Sınıf hiyerarşisi tasarımı, SOLID denetimi ve final entegrasyonu[cite: 51, 53].
-* [cite_start]**Matematik Motoru Geliştiricisi:** `Matrix` sınıfı, lineer cebir işlemleri ve bellek yönetimi[cite: 51].
-* [cite_start]**Katman Uygulama Uzmanı:** `DenseLayer` kodlaması ve ileri iletim (forward pass) mantığı[cite: 51].
-* [cite_start]**Veri ve Test Uzmanı:** Hata yönetimi mekanizmaları, Valgrind raporları ve model persistence[cite: 51].
+* [cite_start]**Baş Yazılım Mimarı & Sistem Entegratörü:** Eyüp Karakoç
+* [cite_start]**Matematik Motoru Geliştiricisi:** Ravza ibil
+* [cite_start]**Katman Uygulama Uzmanı:** Elif Azra İşbilir
+* [cite_start]**Veri ve Test Uzmanı:** Ozan Güneş
 
 ## 💻 Kurulum ve Çalıştırma (MSYS2 / g++)
 
