@@ -6,11 +6,11 @@ Manisa Celal Bayar Üniversitesi (MCBÜ) Yapay Zeka ve Makine Öğrenmesi bölü
 
 ## 🚀 Proje Özellikleri
 
-**Arayüz Tabanlı Tasarım (Interface-Based Design):** Polimorfizm kullanılarak yeni katmanların ve aktivasyon fonksiyonlarının (Sigmoid, ReLU) kolayca sisteme entegre edilebilmesi.
+**Arayüz Tabanlı Tasarım (Interface-Based Design):** Polimorfizm kullanılarak yeni katmanların ve aktivasyon fonksiyonlarının (Sigmoid, ReLU) kolayca sisteme entegre edilebilmesi./n
 
-**Dinamik Bellek Yönetimi:** Gelişmiş yapıcı (constructor) ve yıkıcı (destructor) metotlar ile "0 Memory Leak" hedefli güvenli bellek tahsisi.;
-**Hata Yönetimi (Exception Handling):** Matris boyut uyuşmazlıkları gibi çalışma zamanı hatalarının `try-catch` mekanizmalarıyla güvenli bir şekilde yakalanması.
-**Model Kalıcılığı (Persistence):** SOLID prensiplerine uygun olarak, eğitilmiş veya ilklendirilmiş model ağırlıklarının `.txt` dosyalarına yazılması ve okunması (Dosya I/O).
+**Dinamik Bellek Yönetimi:** Gelişmiş yapıcı (constructor) ve yıkıcı (destructor) metotlar ile "0 Memory Leak" hedefli güvenli bellek tahsisi.;/n
+**Hata Yönetimi (Exception Handling):** Matris boyut uyuşmazlıkları gibi çalışma zamanı hatalarının `try-catch` mekanizmalarıyla güvenli bir şekilde yakalanması./n
+**Model Kalıcılığı (Persistence):** SOLID prensiplerine uygun olarak, eğitilmiş veya ilklendirilmiş model ağırlıklarının `.txt` dosyalarına yazılması ve okunması (Dosya I/O)./n
 
 ## 📂 Klasör Mimarisi
 
