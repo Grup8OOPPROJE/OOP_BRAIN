@@ -6,19 +6,20 @@ Manisa Celal Bayar Üniversitesi (MCBÜ) Yapay Zeka ve Makine Öğrenmesi bölü
 
 ## 🚀 Proje Özellikleri
 
-**Arayüz Tabanlı Tasarım (Interface-Based Design):** Polimorfizm kullanılarak yeni katmanların ve aktivasyon fonksiyonlarının (Sigmoid, ReLU) kolayca sisteme entegre edilebilmesi[cite: 11, 19].
-**Dinamik Bellek Yönetimi:** Gelişmiş yapıcı (constructor) ve yıkıcı (destructor) metotlar ile "0 Memory Leak" hedefli güvenli bellek tahsisi[cite: 33, 34].
-**Hata Yönetimi (Exception Handling):** Matris boyut uyuşmazlıkları gibi çalışma zamanı hatalarının `try-catch` mekanizmalarıyla güvenli bir şekilde yakalanması[cite: 43, 46].
-**Model Kalıcılığı (Persistence):** SOLID prensiplerine uygun olarak, eğitilmiş veya ilklendirilmiş model ağırlıklarının `.txt` dosyalarına yazılması ve okunması (Dosya I/O)[cite: 79, 80].
+**Arayüz Tabanlı Tasarım (Interface-Based Design):** Polimorfizm kullanılarak yeni katmanların ve aktivasyon fonksiyonlarının (Sigmoid, ReLU) kolayca sisteme entegre edilebilmesi.
+
+**Dinamik Bellek Yönetimi:** Gelişmiş yapıcı (constructor) ve yıkıcı (destructor) metotlar ile "0 Memory Leak" hedefli güvenli bellek tahsisi.;
+**Hata Yönetimi (Exception Handling):** Matris boyut uyuşmazlıkları gibi çalışma zamanı hatalarının `try-catch` mekanizmalarıyla güvenli bir şekilde yakalanması.
+**Model Kalıcılığı (Persistence):** SOLID prensiplerine uygun olarak, eğitilmiş veya ilklendirilmiş model ağırlıklarının `.txt` dosyalarına yazılması ve okunması (Dosya I/O).
 
 ## 📂 Klasör Mimarisi
 
 Endüstri standardı modüler yapı kullanılmıştır:
 `include/`: Sınıf tanımlamalarının bulunduğu başlık (`.h`) dosyaları (İskelet).
 `src/`: Tüm fonksiyonların ve asıl mantığın bulunduğu kaynak (`.cpp`) dosyaları (Kaslar).
-`data/`: Model ağırlıkları ve veri setleri (örn. Iris dataset)[cite: 81].
+`data/`: Model ağırlıkları ve veri setleri (örn. Iris dataset).
 `tests/`: Modüler birim testleri (Unit tests).
-`docs/`: UML diyagramları, görev dağılımı (RACI matrisi) ve proje raporu[cite: 51].
+`docs/`: UML diyagramları, görev dağılımı (RACI matrisi) ve proje raporu.
 
 ## 👥 Ekip Üyeleri (Grup 8)
 Proje, 14 haftalık müfredat boyunca profesyonel bir iş bölümü ile geliştirilmiştir[cite: 48, 51]:
