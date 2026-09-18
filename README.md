@@ -1,6 +1,7 @@
 # 🧠 OOP-Brain: C++ Modüler Sinir Ağı Kütüphanesi
 
-[cite_start]Bu proje, C++ dilinin Nesneye Yönelik Programlama (OOP) yetenekleri kullanılarak sıfırdan geliştirilmiş modüler, genişletilebilir ve sağlam bir yapay sinir ağı (ANN) kütüphanesidir[cite: 3]. [cite_start]Ağır matematiksel framework'lere bağımlı kalmadan, yapay zeka sistemlerinin temel taşlarını mimari bir yaklaşımla inşa etmeyi amaçlamaktadır[cite: 4].
+Bu proje, C++ dilinin Nesneye Yönelik Programlama (OOP) yetenekleri kullanılarak sıfırdan geliştirilmiş modüler, genişletilebilir ve sağlam bir yapay sinir ağı (ANN) kütüphanesidir. 
+Ağır matematiksel framework'lere bağımlı kalmadan, yapay zeka sistemlerinin temel taşlarını mimari bir yaklaşımla inşa etmeyi amaçlamaktadır.
 
 Manisa Celal Bayar Üniversitesi (MCBÜ) Yapay Zeka ve Makine Öğrenmesi bölümü öğrencileri tarafından **Grup 8** proje görevi olarak tasarlanmıştır.
 
